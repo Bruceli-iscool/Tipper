@@ -8,6 +8,7 @@ public class t {
         JFrame frame = new JFrame("Tipper UI");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(300, 400);
-        frame.setVisible(true);        
+        frame.setVisible(true);  
+        JLabel label1 = new JLabel();
     }
 }
