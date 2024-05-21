@@ -1,0 +1,2 @@
+# Tipper
+ CLI Tip calculator.
